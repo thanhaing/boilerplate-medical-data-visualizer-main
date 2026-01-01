@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 # 1
-os.chdir("D:/Python/boilerplate-medical-data-visualizer-main")
+#os.chdir("D:/Python/boilerplate-medical-data-visualizer-main")
 df = pd.read_csv('medical_examination.csv')
 
 # 2
